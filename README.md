@@ -1,5 +1,5 @@
-### Hi there 👋
-<h2>I'm Dmitriy and I'm a PHP Backend Developer with 4+ years of experience in WEB and 7+ years in development total.</h2>
+## Hi there 👋
+### I'm Dmitriy and I'm a PHP Backend Developer with 4+ years of experience in WEB and 7+ years in development total.
 <p>Work with: PHP, JS, Node.js, Vue.js, Yii 1, Yii 2, SQL, NoSQL.</p>
              
 <p align="left">
