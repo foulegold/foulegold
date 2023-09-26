@@ -8,5 +8,5 @@
 </p>
 
 #### My projects
-<p><a href="https://3freesoft.ru/">https://3freesoft.ru</a></p>
-<p><a href="https://gogeticon.com/">https://gogeticon.com</a></p>
+- <p><a href="https://3freesoft.ru/">https://3freesoft.ru</a></p>
+- <p><a href="https://gogeticon.com/">https://gogeticon.com</a></p>
