@@ -1,5 +1,5 @@
 ### Hi there, I'm Dmitriy 👋
-<p>PHP Backend Developer from Russia</p>
+<p>Backend Developer from Russia</p>
 
 #### My small projects
 - <a href="https://gogeticon.com/" rel="follow">https://gogeticon.com</a> — multilingual project for web designers 
